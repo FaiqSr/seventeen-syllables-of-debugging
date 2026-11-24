@@ -3,9 +3,9 @@
 
 import os
 
-HAIKU = """the log line stays silent
-i scatter print lines like bread
-the bug eats them all"""
+HAIKU = """log line after log
+i read my own stack trace twice
+the bug wears my face"""
 
 
 def main() -> None:
